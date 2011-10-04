@@ -26,6 +26,7 @@ Gem::Specification.new do |s|
     "Rakefile",
     "VERSION",
     "lib/shaken.rb",
+    "shaken.gemspec",
     "test/helper.rb",
     "test/test_shaken.rb"
   ]
