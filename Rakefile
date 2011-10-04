@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "shaken"
   gem.homepage = "http://github.com/leereilly/shaken"
   gem.license = "MIT"
-  gem.summary = %Q{Speak like Sir Sean Connery}
-  gem.description = %Q{Speak like Sir Sean Connery}
+  gem.summary = %Q{Translate your String to read like Sean Connery}
+  gem.description = %Q{Translate your String to read like Sean Connery}
   gem.email = "lee@leereilly.net"
   gem.authors = ["Lee Reilly"]
   # dependencies defined in Gemfile
