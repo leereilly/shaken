@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "shaken"
   gem.homepage = "http://github.com/leereilly/shaken"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Speak like Sir Sean Connery}
+  gem.description = %Q{Speak like Sir Sean Connery}
   gem.email = "lee@leereilly.net"
   gem.authors = ["Lee Reilly"]
   # dependencies defined in Gemfile
@@ -42,10 +42,9 @@ end
 
 task :default => :test
 
-require 'rake/rdoctask'
-Rake::RDocTask.new do |rdoc|
+require 'rdoc/task'
+RDoc::Task.new do |rdoc|
   version = File.exist?('VERSION') ? File.read('VERSION') : ""
-
   rdoc.rdoc_dir = 'rdoc'
   rdoc.title = "shaken #{version}"
   rdoc.rdoc_files.include('README*')

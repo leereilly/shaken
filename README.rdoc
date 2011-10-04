@@ -1,16 +1,21 @@
 = shaken
 
-Description goes here.
+A quick exercise in building Ruby gems with Jeweler, GemCutter and GitHub. Calling `.shaken` on any Ruby string object will turn it into Sean Connery speak .e.g
+
+   >> "I saw a ship in sight, Miss Money Penny".shaken
+   => "I shaw a ship in shight, Mishsh Money Penny"
+
+<img src="http://i.imgur.com/WdEns.jpg" alt="" title="Hosted by imgur.com" />
 
 == Contributing to shaken
  
-* Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet
-* Check out the issue tracker to make sure someone already hasn't requested it and/or contributed it
-* Fork the project
-* Start a feature/bugfix branch
-* Commit and push until you are happy with your contribution
-* Make sure to add tests for it. This is important so I don't break it in a future version unintentionally.
-* Please try not to mess with the Rakefile, version, or history. If you want to have your own version, or is otherwise necessary, that is fine, but please isolate to its own commit so I can cherry-pick around it.
+* Check out the latesht mashter to make shure the feature hashn't been implemented or the bug hashn't been fixed yet.
+* Check out the ishshue tracker to make shure shomeone already hashn't requeshted it and/or contributed it.
+* Fork the project.
+* Shtart a feature/bugfix branch.
+* Commit and push until you are happy with your contribution.
+* Make shure to add teshtsh for it. Thish ish important sho I don't break it in a future version unintentionally.
+* Pleashe try not to meshsh with the Rakefile, vershion, or hishtory. If you want to have your own vershion, or is otherwishe neceshshary, that ish fine, but pleashe isholate to itsh own commit sho I can cherry-pick around it.
 
 == Copyright
 
