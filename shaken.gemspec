@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = [%q{Lee Reilly}]
   s.date = %q{2011-10-04}
-  s.description = %q{Speak like Sir Sean Connery}
+  s.description = %q{Translate your String to read like Sean Connery}
   s.email = %q{lee@leereilly.net}
   s.extra_rdoc_files = [
     "LICENSE.txt",
@@ -34,7 +34,7 @@ Gem::Specification.new do |s|
   s.licenses = [%q{MIT}]
   s.require_paths = [%q{lib}]
   s.rubygems_version = %q{1.8.9}
-  s.summary = %q{Speak like Sir Sean Connery}
+  s.summary = %q{Translate your String to read like Sean Connery}
 
   if s.respond_to? :specification_version then
     s.specification_version = 3
