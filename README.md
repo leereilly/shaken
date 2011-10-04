@@ -2,8 +2,8 @@
 
 A quick exercise in building Ruby gems with Jeweler, GemCutter and GitHub. Calling `.shaken` on any Ruby string object will turn it into Sean Connery speak .e.g
 
-   >> "I saw a ship in sight, Miss Money Penny".shaken
-   => "I shaw a ship in shight, Mishsh Money Penny"
+    >> "I saw a ship in sight, Miss Money Penny".shaken
+    => "I shaw a ship in shight, Mishsh Money Penny"
 
 ![Stache](http://i.imgur.com/WdEns.jpg "Stache")
 
